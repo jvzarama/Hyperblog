@@ -7,4 +7,4 @@ Hoy hablamos de su historia
 
 Crecio en el eje cafetero, es una mujer convencionalmente bella. 
 
-Hoy esta aprendiendo a codificar 
+Hoy esta aprendiendo a codificar y a trabajar con git y github
